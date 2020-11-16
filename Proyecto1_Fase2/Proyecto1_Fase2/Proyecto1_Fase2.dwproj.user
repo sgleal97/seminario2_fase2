@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>OrigenDatosDWH</Id>
+            <Name>OrigenDatosDWH</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcJ9Q9WGZyk2KbTcdxBsLiQAAAAAeAAAATwByAGkAZwBlAG4ARABhAHQAbwBzAEQAVwBIAAAAEGYAAAABAAAgAAAA1JriSnDgiPfuzHcWSMzyFnlprRnGpo04WfPXf3QmmPYAAAAADoAAAAACAAAgAAAA8kn3betMUq4Mu6CFmwXV0a24A/sHo468Wq7VzzfEmfMQAAAA6p0tJheLekTI0txW/sPyVkAAAAAWe6Ps23zz/bZYfi6EGaCsWoapPDSxZ4mX+9Y9fH9cpY53ZX1r9Z9Hkd8d65P3gv225E5O1sNK5tf4MbtYSf/r</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>OrigenDatosDWH</Id>
+            <Name>OrigenDatosDWH</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcJ9Q9WGZyk2KbTcdxBsLiQAAAAAeAAAATwByAGkAZwBlAG4ARABhAHQAbwBzAEQAVwBIAAAAEGYAAAABAAAgAAAAPVn5/kvRkq7EqK02lXbFCxaSfFqnjyl9p70R876Qd4MAAAAADoAAAAACAAAgAAAARFZ4llvvbykd5EngJ4fPxbN+SLjebgvoUJmjH27XrDMQAAAAHW+u7t16Q/tdjArt5/kHtUAAAADAN64MS6lpY0Q4sLKlEXvwGyPp7tHRLzY52MElao3jbiiBIBF2NhEAkMmo5+FDcNfNzWQwtOAangGtS+WzHg2U</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>localhost</TargetServer>
+        <TargetDatabase>Proyecto1_Fase2</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
